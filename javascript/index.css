@@ -1,0 +1,25 @@
+#textdisplay{
+	font-size:24px;
+}
+
+.canvas{
+	position:absolute;
+	top:0px;
+	left:0px;
+	display:inline-block;
+}
+#mycanvas_training{
+	position:relative;
+}
+
+#endtext{
+	position:absolute;
+	top:100px;
+	left:100px;
+	width:600px;
+	font-size:20px;
+}
+#code{
+	font-size:24px;
+	color:red;
+}
